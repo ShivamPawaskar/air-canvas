@@ -2,6 +2,12 @@
 
 Air Canvas is a gesture-driven drawing app built with Python, OpenCV, and MediaPipe. It uses a single locked hand for interaction and provides a cleaner control model for freehand drawing with gesture-based tool switching.
 
+## Live Landing Page
+
+Open the public landing page here:
+
+- [Air Canvas Live Page](https://shivampawaskar.github.io/air-canvas/)
+
 ## Features
 
 - Single-hand scan and lock before starting
@@ -56,6 +62,7 @@ A static landing page is included:
 
 - [landing.html](./landing.html)
 - [styles.css](./styles.css)
+- Public link: [https://shivampawaskar.github.io/air-canvas/](https://shivampawaskar.github.io/air-canvas/)
 
 Open it directly:
 
